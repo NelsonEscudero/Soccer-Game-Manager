@@ -1,0 +1,10 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore instance and database files
+instance/
+*.db
+
+# Ignore environment variables file
+.env
