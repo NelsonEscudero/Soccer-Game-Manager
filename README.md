@@ -12,5 +12,5 @@ certain routes are accessed.
 Uses a MySQL relational database and SQLAlchemy to access and manage the database using Python objects. 
 
 ## Build
-To build and run the project install Flask, and run "flask run" in the folder
+To build and run the project install Flask, and run "flask run"
  
