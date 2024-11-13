@@ -5,8 +5,7 @@ database and the user will see a list of games that they've added, being able to
 as well.
 
 ## Frontend Info
-This application uses HTML and Flask to build and run the web app, rendering different templates when
-certain routes are accessed.
+This application uses HTML and Flask to build and run the web app, rendering different templates certain routes are accessed and displaying live data.
 
 ## Backend Info
 Uses a MySQL relational database and SQLAlchemy to access and manage the database using Python objects. 
