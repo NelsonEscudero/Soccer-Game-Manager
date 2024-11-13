@@ -6,5 +6,5 @@ __pycache__/
 instance/
 *.db
 
-# Ignore environment variables file
-.env
+# Ignore environment variables
+.venv
