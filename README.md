@@ -17,5 +17,5 @@ Uses a MySQL relational database and SQLAlchemy to access and manage the databas
 4. Then set Flask environment variable: 'set FLASK_APP=app.py'
 5. Then install SQLAlchemy: 'pip install SQLAlchemy'
 6. Then install Flask-SQLAlchemy: 'pip install Flask-SQLAlchemy'
-7. Then go into the src folder and run 'flask run' to start the FLask server and website
+7. Then go into the src folder and run 'flask run' to start the Flask server and website
  
