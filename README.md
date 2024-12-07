@@ -7,7 +7,7 @@ database and the user will see a list of games that they've added, being able to
 This application uses HTML and Flask to build and run the web app, rendering different templates certain routes are accessed and displaying live data.
 
 ## Backend Info
-Uses a SQLite relational database and SQLAlchemy to access and manage the database using Python objects. Also uses prepared statements for filtering based on the user's input.
+Uses a SQLite relational database and SQLAlchemy to access and manage the database using Python objects. Also uses prepared SQL statements for filtering based on the user's input.
 
 ## Build
 1. First set up a virtual environment in the local repository
